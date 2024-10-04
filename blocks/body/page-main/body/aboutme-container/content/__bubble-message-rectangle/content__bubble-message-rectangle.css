@@ -1,0 +1,17 @@
+.content__bubble-message-rectangle {
+  display: flex;
+  background: var(--main-greyblue);
+  border-radius: 30px;
+  z-index: 1;
+}
+
+.content__bubble-message-rectangle--text-aligned {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.content__bubble-message-rectangle--filter-blur {
+  background: linear-gradient(135deg, var(--main-greyblue) 0%, var(--main-turquoise) 100%);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

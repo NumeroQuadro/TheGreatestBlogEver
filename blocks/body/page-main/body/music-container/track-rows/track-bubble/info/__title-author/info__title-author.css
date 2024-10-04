@@ -1,0 +1,15 @@
+.info__title-author {
+  display: block;
+  z-index: 2;
+  margin-top: 15px;
+  margin-left: 20px;
+  font-size: 22px;
+  color: white;
+}
+
+.info__title-author--text-clickable {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color from parent */
+  font: inherit; /* Inherit font properties from parent */
+  cursor: pointer; /* Change cursor to pointer */
+}

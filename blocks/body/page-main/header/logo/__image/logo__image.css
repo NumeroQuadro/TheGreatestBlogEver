@@ -1,0 +1,9 @@
+.logo__image {
+  display: flex;
+  width: var(--logo__image_width);
+  padding: var(--logo__image_padding-top);
+}
+
+.logo__image:hover {
+  cursor: pointer;
+}

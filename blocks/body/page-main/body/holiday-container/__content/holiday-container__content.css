@@ -1,0 +1,23 @@
+.holiday-container__content {
+  display: block;
+  text-align: center;
+  font-family: "Scary Halloween Font", "Arial", sans-serif;
+  font-size: 6rem;
+}
+
+.holiday-container__content--text-color-orange {
+  color: #CD8A39;
+}
+
+.holiday-container__content--text-link-disabled {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color from parent */
+  font: inherit; /* Inherit font properties from parent */
+  cursor: pointer; /* Change cursor to pointer */
+}
+
+@media (max-width: 1826px) {
+  .holiday-container__content {
+    display: none;
+  }
+}

@@ -1,0 +1,10 @@
+.holiday-container__title {
+  display: block;
+  text-align: center;
+  font-family: Merriweather Sans, serif;
+  font-size: 2.5rem;
+}
+
+.holiday-container__title--text-color-pure {
+  color: var(--main-pure);
+}

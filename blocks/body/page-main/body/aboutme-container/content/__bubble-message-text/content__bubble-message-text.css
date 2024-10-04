@@ -1,0 +1,10 @@
+.content__bubble-message-text {
+  z-index: 2;
+  font-family: Merriweather Sans, sans-serif;
+  font-size: 32px;
+  width: 90%;
+}
+
+.content__bubble-message-text--color-pure {
+  color: white;
+}

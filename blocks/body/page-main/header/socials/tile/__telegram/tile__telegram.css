@@ -1,0 +1,9 @@
+.tile__telegram {
+  width: 75px;
+}
+
+@media (max-width : 1849px) {
+  .tile__telegram {
+    display: none;
+  }
+}

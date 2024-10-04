@@ -1,0 +1,26 @@
+.info__title-track {
+  display: block;
+  z-index: 3;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: white;
+  font-size: 32px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.info__rectangle--text-p-font-gotham-black {
+  font-family: "Gotham", sans-serif;
+}
+
+.info__rectangle--text-h1-font-gotham-black {
+  font-family: "Gotham Black", sans-serif;
+}
+
+.info__title-track--text-clickable {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color from parent */
+  font: inherit; /* Inherit font properties from parent */
+  cursor: pointer; /* Change cursor to pointer */
+}

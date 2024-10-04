@@ -1,0 +1,8 @@
+.aboutme-container__picture {
+  display: flex;
+  width: 80%;
+  border-radius: 1000px;
+  top: 100px;
+  align-self: end;
+  margin: 0 auto 0 auto;
+}

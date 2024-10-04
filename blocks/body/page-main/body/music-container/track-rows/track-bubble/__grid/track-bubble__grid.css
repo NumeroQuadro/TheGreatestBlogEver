@@ -1,0 +1,7 @@
+.track-bubble__grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  height: 140px;
+  gap: 10px;
+  justify-content: center;
+}

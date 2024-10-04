@@ -1,0 +1,23 @@
+.info__rectangle {
+  position: absolute;
+  background: var(--main-spotify-black);
+  width: 500px;
+  height: 134px;
+  border-radius: 39px;
+}
+
+@media (max-width: 1747px) {
+  .info__rectangle {
+    position: absolute;
+    background: var(--main-spotify-black);
+    width: 250px;
+    height: 134px;
+    border-radius: 39px;
+  }
+}
+
+@media (max-width : 1500px) {
+  .info__rectangle {
+    display: none;
+  }
+}

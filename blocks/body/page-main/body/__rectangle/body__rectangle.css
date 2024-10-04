@@ -1,0 +1,15 @@
+.body__rectangle {
+  position: relative;
+  margin-top: var(--body__rectangle-negative-float);
+  height: var(--body-height);
+  border-top-left-radius: var(--body-top-left-radius);
+  border-top-right-radius: var(--body-top-right-radius);
+  background-size: cover; /* Если у вас фон изображение, это поможет заполнить экран */
+  background-position: center;
+}
+
+.body__rectangle--color-denim {
+  background: var(--main-denim);
+}
+
+

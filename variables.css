@@ -1,0 +1,38 @@
+:root {
+  --main-denim: #173B61;
+  --main-turquoise: #17616E;
+  --main-greyblue: #7697A0;
+  --main-orange: #fd8916;
+  --main-pure: #ffebd0;
+  --main-spotify-black: #191414;
+
+  --header-height: 139px;
+  --body-height: 983px;
+
+  --body-top-left-radius: 50px;
+  --body-top-right-radius: 50px;
+  --body__rectangle-negative-float: -50px;
+
+  --tab-container-width: 1320px;
+
+  --tab__rectangle-radius: 20px;
+  --tab-content-padding: 10px;
+  --tab-content-height: var(--logo__image_width);
+  --tab-content-font-size: 32px;
+  --tab-content-rectangle-width: 400px;
+  --tab-content__title--text-margin-right: 50px;
+
+  --logo__image_width: 80px;
+  --logo__image_padding-top: 16px;
+
+  --music-container-margin-left: 1100px;
+  --music-container-width: 680px;
+
+  --holiday-container-margin-left: var(--music-container-margin-left);
+
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,10 @@
+.holiday-container__grid {
+  display: grid;
+  position: absolute;
+  grid-template-rows: 111px auto;
+  align-items: center;
+  left: var(--music-container-margin-left);
+  top: 480px;
+  width: var(--music-container-width);
+  height: 400px;
+}

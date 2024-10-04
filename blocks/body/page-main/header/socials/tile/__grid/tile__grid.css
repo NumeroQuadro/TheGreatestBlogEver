@@ -1,0 +1,16 @@
+.tile__grid {
+  margin-left: 20px;
+  display: grid;
+  width: 370px;
+  height: var(--tab-content-height);
+  grid-template-columns: 200px 70px 70px;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.title_grid a {
+  padding: 0;
+  margin: 0;
+  border: none;
+}

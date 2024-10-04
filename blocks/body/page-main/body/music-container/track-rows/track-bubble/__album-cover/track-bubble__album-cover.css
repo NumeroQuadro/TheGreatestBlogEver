@@ -1,0 +1,12 @@
+.track-bubble__album-cover {
+  max-width: 100%; /* Scale down the image */
+  height: auto;    /* Maintain aspect ratio */
+  width: 134px;
+  border-radius: 15px;
+}
+
+@media (max-width : 1238px) {
+  .track-bubble__album-cover {
+    display: none;
+  }
+}

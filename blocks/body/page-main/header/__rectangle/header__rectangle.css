@@ -1,0 +1,11 @@
+.header__rectangle {
+  height: var(--header-height);
+  background: var(--main-pure);
+  margin: 0;
+  padding: 0;
+}
+
+.header__rectangle--display-flex {
+  display: flex;
+  grid-template-columns: 139px 1fr 1fr;
+}

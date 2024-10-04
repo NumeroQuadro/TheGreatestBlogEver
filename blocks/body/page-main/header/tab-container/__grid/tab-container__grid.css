@@ -1,0 +1,8 @@
+.tab-container__grid {
+  margin-left: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: var(--tab-container-width);
+  margin-top: 5px;
+  height: var(--tab-content-height);
+}

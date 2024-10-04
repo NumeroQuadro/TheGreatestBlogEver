@@ -1,0 +1,8 @@
+.aboutme-container__photo-grid-delim {
+  position: absolute;
+  display: grid;
+  grid-template-rows: 80% auto;
+  border: yellow solid 10px;
+  width: 30%;
+  height: 100%;
+}

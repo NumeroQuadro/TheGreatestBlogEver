@@ -1,0 +1,6 @@
+.track-rows__grid {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  width: 680px;
+  gap: 10px;
+}

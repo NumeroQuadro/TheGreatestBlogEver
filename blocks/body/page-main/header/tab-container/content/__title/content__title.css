@@ -1,0 +1,17 @@
+.content__title {
+  display: flex;
+  font-family: Merriweather Sans, sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--tab-content-font-size);
+}
+
+.content__title--text-selection-color-denim::selection {
+  background-color: var(--main-denim);
+}
+
+.content__title--color-pure {
+  color: var(--main-pure);
+  z-index: 2;
+}

@@ -1,0 +1,8 @@
+.content__rectangle {
+  height: var(--tab-content-height);
+  border-radius: var(--tab__rectangle-radius);
+  width: var(--tab-content-rectangle-width);
+  background: var(--main-greyblue);
+  position: relative;
+  z-index: 1;
+}

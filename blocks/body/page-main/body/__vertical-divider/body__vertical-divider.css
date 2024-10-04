@@ -1,0 +1,11 @@
+.body__vertical-divider {
+  position: absolute;
+  display: flex;
+  left: 950px;
+  top: 40px;
+  z-index: 3;
+  width: 1px;
+  background: white;
+  height: 900px;
+  margin: 0 auto;
+}

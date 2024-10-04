@@ -1,0 +1,8 @@
+.music-container__rectangle {
+    display: flex;
+    position: absolute;
+    width: var(--music-container-width);
+    left: var(--music-container-margin-left);
+    top: 70px;
+}
+

@@ -1,0 +1,11 @@
+.body__horizontal-divider {
+  position: absolute;
+  display: flex;
+  left: 1000px;
+  top: 430px;
+  z-index: 3;
+  width: 800px;
+  background: white;
+  height: 1px;
+  margin: 0 auto;
+}
